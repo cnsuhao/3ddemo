@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<plist version = "1.0">
+	<dict>
+		<key>version</key>
+		<string>1.0.0</string>
+		<key>downurl</key>
+		<string>http://127.0.0.1</string>
+	</dict>
+</plist>

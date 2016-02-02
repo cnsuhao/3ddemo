@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="84" height="42" tilewidth="48" tileheight="48">
+ <tileset firstgid="1" name="alpha" tilewidth="48" tileheight="48">
+  <image source="alpha.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="2" name="block" tilewidth="48" tileheight="48">
+  <image source="block.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="3" name="shimu001" tilewidth="48" tileheight="48">
+  <image source="shimu001.jpg" width="816" height="768"/>
+ </tileset>
+ <layer name="map" width="84" height="42">
+  <data encoding="base64" compression="zlib">
+   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
+  </data>
+ </layer>
+ <layer name="block" width="84" height="42">
+  <data encoding="base64" compression="zlib">
+   eJztlUsOxCAMQ1Hvf+jZoqrTQuJPQFjyjibOE6RXa+06Pj7+64hmv3XPWJllzyfyzY52yT33LhzbQ5Zd7JB75hWYjtZxz7oC05E6kSxuJg6mI3Wy/d1cVEyVfd1c2HdT3d/Nh8UROVtULkZVWaLkumuMmdwsszmyORnzuFlGMqAyOmdSqcoeGs05ei6Tz7GLlFLuFcd+j9ZFZmL0Q98bBs/srlW8EVYfdM1IPfXeQfdh5I1mnGXJvD+RPv05Z06UFRm/ar7VzqoqT3afO1e0srmRPFX3v+/FECI3aj42x3s/phBvKZtRwbLvwxJqN6EyMln29VHnnr5BZ45K9da/akTvk4plZAbWf2j2f/B2nv2WRnpGcmXyRmsjjJY78w4MHXNUyLALy0pGyz2P2yi556jmw9LP1Z11JR+OGp7uXMc1/QPrOhDD
+  </data>
+ </layer>
+ <layer name="alpha" width="84" height="42">
+  <data encoding="base64" compression="zlib">
+   eJztVlmKRCEQc+5/6flqGETLJBWXdgw8aNrajLWV8nATfhZ+tyNzT1b3Zk4dOaPo38bpztq7se533enWPuqeEYj+rVx+4LrfyA7zdt/OeTb+aB9idqXW+bfyqsTN8IfmpHp+Ghg+Rzwp+zvq93S48jLr++RZ5qoxxL4C91vMAtPPd/Hh5mAWp+wO4ohB7RNuzHgfpv9k/Cj+Z9emu5/Pkv+rw+yOrd2J9alC4VaVZ5HZI3fNutqOS66Wz+oxvLrfTwXKp2KXiTGSR2yptdbrFZmej/pjbKLvnpFTMLLjuHvPngI0t5Q6c/ZJZz8e1ZUCtL9l+5Wip/hjua9/l6JzWftHY3TkGSObebtIpucnwycTA6KLcuW22dNFY3Hx2IuFke313dZ/Sn6icOTEDLD9Z2Rjdm9A4nHpZ+dGNKfcvkfxrPCDxpKdAZmaVcHOakfvb9nozSxWvj53Asl/hc9sLaofYrM05B1QYlJsMvJRXCxvo9x1IvP2qu2RDBobc5dIzgGkBjJcRn56Zyvg9uXiyeFzNZd1LE5bO3JiN5etWFx2Vt/jFGR5OCEnToJaJ4/HGAw/j0sc7G71eMSA7CCPSxz/gcdf/YUDHg==
+  </data>
+ </layer>
+ <objectgroup name="unit" width="84" height="42">
+  <object name="2000056" x="1806" y="380" width="68" height="40"/>
+  <object name="2000056" x="1970" y="139" width="68" height="40"/>
+  <object name="2000056" x="1432" y="694" width="68" height="40"/>
+  <object name="2000056" x="1779" y="1401" width="68" height="40"/>
+  <object name="2000056" x="3617" y="853" width="68" height="40"/>
+  <object name="1103001" x="1671" y="1311" width="48" height="44"/>
+  <object name="2000056" x="2130" y="824" width="68" height="40"/>
+  <object name="2910000" x="1948" y="1499" width="43" height="37"/>
+  <object name="2000056" x="2957" y="722" width="68" height="40"/>
+  <object name="2501009" x="2517" y="1274" width="64" height="52"/>
+ </objectgroup>
+ <objectgroup name="waypoint" width="84" height="42">
+  <object name="p103-1" x="3685" y="1164" width="44" height="64"/>
+  <object name="p103-2" x="1585" y="1549" width="36" height="36"/>
+  <object name="p103-3" x="510" y="1094" width="64" height="36"/>
+  <object name="p103-4" x="2348" y="244" width="44" height="32"/>
+ </objectgroup>
+ <objectgroup name="trigger" width="84" height="42">
+  <object name="4" type="1" x="3777" y="1107" width="148" height="124">
+   <properties>
+    <property name="MapName" value="m9"/>
+    <property name="WayPointName" value="p9-2"/>
+   </properties>
+  </object>
+  <object name="1" type="1" x="293" y="1125" width="152" height="112">
+   <properties>
+    <property name="MapName" value="m9"/>
+    <property name="WayPointName" value="p9-3"/>
+   </properties>
+  </object>
+  <object name="2" type="1" x="1398" y="1571" width="124" height="96">
+   <properties>
+    <property name="MapName" value="m5"/>
+    <property name="WayPointName" value="p5-3"/>
+   </properties>
+  </object>
+  <object name="3" type="1" x="2436" y="144" width="140" height="92">
+   <properties>
+    <property name="MapName" value="d105"/>
+    <property name="WayPointName" value="p105-1"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="area" width="84" height="42">
+  <object type="10" x="24" y="20" width="3996" height="1984"/>
+ </objectgroup>
+</map>

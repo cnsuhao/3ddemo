@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\common\DownManager.cpp">
+      <Filter>Classes\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\common\DrawHelper.cpp">
+      <Filter>Classes\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\common\FindPath.cpp">
+      <Filter>Classes\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\common\PackageData.cpp">
+      <Filter>Classes\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\logic\GameDispatcher.cpp">
+      <Filter>Classes\logic</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\logic\GameEvent.cpp">
+      <Filter>Classes\logic</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\logic\GameMap.cpp">
+      <Filter>Classes\logic</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\logic\GameObjectMgr.cpp">
+      <Filter>Classes\logic</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\logic\GameAI.cpp">
+      <Filter>Classes\logic</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\lua\lua_game_auto.cpp">
+      <Filter>Classes\lua</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\lua\lua_game_manual.cpp">
+      <Filter>Classes\lua</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\object\GameAction.cpp">
+      <Filter>Classes\object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\object\GameEffect.cpp">
+      <Filter>Classes\object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\object\GameObject.cpp">
+      <Filter>Classes\object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\object\GamePlayer.cpp">
+      <Filter>Classes\object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\object\ObjectData.cpp">
+      <Filter>Classes\object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\object\ObjectDataMgr.cpp">
+      <Filter>Classes\object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\scene\GameScene.cpp">
+      <Filter>Classes\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\scene\LoginScene.cpp">
+      <Filter>Classes\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ui\RichTextBox.cpp">
+      <Filter>Classes\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ui\UIBaseNode.cpp">
+      <Filter>Classes\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ui\UIChat.cpp">
+      <Filter>Classes\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ui\UILoading.cpp">
+      <Filter>Classes\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ui\UILogin.cpp">
+      <Filter>Classes\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ui\UIManager.cpp">
+      <Filter>Classes\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ui\UIRocker.cpp">
+      <Filter>Classes\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ui\UISelTarget.cpp">
+      <Filter>Classes\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ui\UISkilPanel.cpp">
+      <Filter>Classes\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ui\UIUpdate.cpp">
+      <Filter>Classes\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\utils\FileReader.cpp">
+      <Filter>Classes\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\utils\GameAtlasMgr.cpp">
+      <Filter>Classes\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\utils\ShaderMgr.cpp">
+      <Filter>Classes\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\utils\Utils.cpp">
+      <Filter>Classes\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ui\UIEffectMgr.cpp">
+      <Filter>Classes\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ui\UIWorldMap.cpp">
+      <Filter>Classes\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\common\Global.cpp">
+      <Filter>Classes\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\3dobject\GameObject3D.cpp">
+      <Filter>Classes\3dobject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\3dobject\GameObject3DMgr.cpp">
+      <Filter>Classes\3dobject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\3dobject\ObjectData3D.cpp">
+      <Filter>Classes\3dobject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\3dobject\GameAction3D.cpp">
+      <Filter>Classes\3dobject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\3dobject\ObjectData3DMgr.cpp">
+      <Filter>Classes\3dobject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp">
+      <Filter>Classes\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ui\UIMiniMap.cpp">
+      <Filter>Classes\ui</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\common\CocosHead.h">
+      <Filter>Classes\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\common\DownManager.h">
+      <Filter>Classes\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\common\DrawHelper.h">
+      <Filter>Classes\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\common\FindPath.h">
+      <Filter>Classes\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\common\Global.h">
+      <Filter>Classes\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\common\PackageData.h">
+      <Filter>Classes\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\logic\GameAI.h">
+      <Filter>Classes\logic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\logic\GameDispatcher.h">
+      <Filter>Classes\logic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\logic\GameEvent.h">
+      <Filter>Classes\logic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\logic\GameMap.h">
+      <Filter>Classes\logic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\logic\GameObjectMgr.h">
+      <Filter>Classes\logic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\lua\lua_game_auto.hpp">
+      <Filter>Classes\lua</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\lua\lua_game_manual.hpp">
+      <Filter>Classes\lua</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\object\GameAction.h">
+      <Filter>Classes\object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\object\GameEffect.h">
+      <Filter>Classes\object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\object\GameObject.h">
+      <Filter>Classes\object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\object\GamePlayer.h">
+      <Filter>Classes\object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\object\ObjectData.h">
+      <Filter>Classes\object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\object\ObjectDataMgr.h">
+      <Filter>Classes\object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\scene\GameScene.h">
+      <Filter>Classes\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\scene\LoginScene.h">
+      <Filter>Classes\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ui\RichTextBox.h">
+      <Filter>Classes\ui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ui\UIBaseNode.h">
+      <Filter>Classes\ui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ui\UIChat.h">
+      <Filter>Classes\ui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ui\UILoading.h">
+      <Filter>Classes\ui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ui\UILogin.h">
+      <Filter>Classes\ui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ui\UIManager.h">
+      <Filter>Classes\ui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ui\UIRocker.h">
+      <Filter>Classes\ui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ui\UISelTarget.h">
+      <Filter>Classes\ui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ui\UISkilPanel.h">
+      <Filter>Classes\ui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ui\UIUpdate.h">
+      <Filter>Classes\ui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\utils\FileReader.h">
+      <Filter>Classes\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\utils\GameAtlasMgr.h">
+      <Filter>Classes\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\utils\ShaderMgr.h">
+      <Filter>Classes\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\utils\Utils.h">
+      <Filter>Classes\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\lua_module_register.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ui\UIEffectMgr.h">
+      <Filter>Classes\ui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ui\UIWorldMap.h">
+      <Filter>Classes\ui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\3dobject\GameAction3D.h">
+      <Filter>Classes\3dobject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\3dobject\GameObject3D.h">
+      <Filter>Classes\3dobject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\3dobject\GameObject3DMgr.h">
+      <Filter>Classes\3dobject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\3dobject\ObjectData3D.h">
+      <Filter>Classes\3dobject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\3dobject\ObjectData3DMgr.h">
+      <Filter>Classes\3dobject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelloWorldScene.h">
+      <Filter>Classes\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ui\UIMiniMap.h">
+      <Filter>Classes\ui</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="main">
+      <UniqueIdentifier>{3759aed8-71be-4352-a67a-b4b8ba225a8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{fb820142-9ca3-45f3-b8d2-031519dc2c81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\common">
+      <UniqueIdentifier>{90c00f23-ac7f-41fc-9570-18bfe03d3a09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\logic">
+      <UniqueIdentifier>{ccd5ad7b-b232-4d64-a880-65af54b984e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\lua">
+      <UniqueIdentifier>{86ad7559-e6f9-4ce8-93e8-585df35f6156}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\object">
+      <UniqueIdentifier>{754c8478-d0f7-4f6c-950e-1db69e0994c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\scene">
+      <UniqueIdentifier>{88300ac1-051b-40c5-9b3c-7ce0e7a90317}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\ui">
+      <UniqueIdentifier>{65edfa3e-35f7-48af-b8b1-a7bc3d293966}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\utils">
+      <UniqueIdentifier>{36e62e3c-4efc-4b79-9490-b10727e3a986}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\3dobject">
+      <UniqueIdentifier>{ba28008e-c32c-4d81-98aa-f5ee43dfbfe9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>main</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\game.ico" />
+  </ItemGroup>
+</Project>

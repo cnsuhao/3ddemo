@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Created with TexturePacker http://www.codeandweb.com/texturepacker--><!-- $TexturePacker:SmartUpdate:a9e15c440f9f9f157ef7c0bb31f778b1:26b7d6a9889f76cc1622b42fbe4dcab7:c7880a2e1d40a55fbe65ed684fe227fe$ --><!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+--><TextureAtlas height="1024" imagePath="magic_9.png" width="1024">
+    <sprite Height="82" Name="0" OX="-5" OY="-56" Width="98" X="0" Y="0" h="82" n="magic_ck_002351.bmp" pX="0.5" pY="0.5" w="98" x="0" y="0"/>
+    <sprite Height="71" Name="1" OX="-14" OY="-57" Width="109" X="98" Y="0" h="71" n="magic_ck_002352.bmp" pX="0.5" pY="0.5" w="109" x="98" y="0"/>
+    <sprite Height="91" Name="2" OX="-35" OY="-57" Width="124" X="207" Y="0" h="91" n="magic_ck_002353.bmp" pX="0.5" pY="0.5" w="124" x="207" y="0"/>
+    <sprite Height="79" Name="3" OX="-23" OY="-49" Width="71" X="331" Y="0" h="79" n="magic_ck_002354.bmp" pX="0.5" pY="0.5" w="71" x="331" y="0"/>
+    <sprite Height="114" Name="4" OX="-31" OY="-67" Width="141" X="402" Y="0" h="114" n="magic_ck_002356.bmp" pX="0.5" pY="0.5" w="141" x="402" y="0"/>
+    <sprite Height="109" Name="5" OX="-32" OY="-78" Width="149" X="543" Y="0" h="109" n="magic_ck_002357.bmp" pX="0.5" pY="0.5" w="149" x="543" y="0"/>
+    <sprite Height="81" Name="6" OX="-33" OY="-65" Width="141" X="692" Y="0" h="81" n="magic_ck_002358.bmp" pX="0.5" pY="0.5" w="141" x="692" y="0"/>
+    <sprite Height="84" Name="7" OX="-3" OY="-55" Width="99" X="833" Y="0" h="84" n="magic_ck_002361.bmp" pX="0.5" pY="0.5" w="99" x="833" y="0"/>
+    <sprite Height="86" Name="8" OX="-5" OY="-59" Width="108" X="0" Y="114" h="86" n="magic_ck_002362.bmp" pX="0.5" pY="0.5" w="108" x="0" y="114"/>
+    <sprite Height="87" Name="9" OX="-24" OY="-61" Width="114" X="108" Y="114" h="87" n="magic_ck_002363.bmp" pX="0.5" pY="0.5" w="114" x="108" y="114"/>
+    <sprite Height="68" Name="10" OX="-24" OY="-52" Width="90" X="222" Y="114" h="68" n="magic_ck_002364.bmp" pX="0.5" pY="0.5" w="90" x="222" y="114"/>
+    <sprite Height="109" Name="11" OX="-42" OY="-64" Width="138" X="312" Y="114" h="109" n="magic_ck_002366.bmp" pX="0.5" pY="0.5" w="138" x="312" y="114"/>
+    <sprite Height="104" Name="12" OX="-26" OY="-67" Width="140" X="450" Y="114" h="104" n="magic_ck_002367.bmp" pX="0.5" pY="0.5" w="140" x="450" y="114"/>
+    <sprite Height="90" Name="13" OX="-9" OY="-63" Width="115" X="590" Y="114" h="90" n="magic_ck_002368.bmp" pX="0.5" pY="0.5" w="115" x="590" y="114"/>
+    <sprite Height="80" Name="14" OX="-20" OY="-48" Width="115" X="705" Y="114" h="80" n="magic_ck_002371.bmp" pX="0.5" pY="0.5" w="115" x="705" y="114"/>
+    <sprite Height="80" Name="15" OX="-8" OY="-50" Width="110" X="820" Y="114" h="80" n="magic_ck_002372.bmp" pX="0.5" pY="0.5" w="110" x="820" y="114"/>
+    <sprite Height="81" Name="16" OX="-13" OY="-59" Width="106" X="0" Y="223" h="81" n="magic_ck_002373.bmp" pX="0.5" pY="0.5" w="106" x="0" y="223"/>
+    <sprite Height="51" Name="17" OX="-21" OY="-53" Width="107" X="106" Y="223" h="51" n="magic_ck_002374.bmp" pX="0.5" pY="0.5" w="107" x="106" y="223"/>
+    <sprite Height="104" Name="18" OX="-54" OY="-67" Width="154" X="213" Y="223" h="104" n="magic_ck_002376.bmp" pX="0.5" pY="0.5" w="154" x="213" y="223"/>
+    <sprite Height="107" Name="19" OX="-37" OY="-63" Width="144" X="367" Y="223" h="107" n="magic_ck_002377.bmp" pX="0.5" pY="0.5" w="144" x="367" y="223"/>
+    <sprite Height="101" Name="20" OX="-21" OY="-64" Width="123" X="511" Y="223" h="101" n="magic_ck_002378.bmp" pX="0.5" pY="0.5" w="123" x="511" y="223"/>
+    <sprite Height="70" Name="21" OX="-22" OY="-35" Width="115" X="634" Y="223" h="70" n="magic_ck_002381.bmp" pX="0.5" pY="0.5" w="115" x="634" y="223"/>
+    <sprite Height="71" Name="22" OX="-28" OY="-37" Width="125" X="749" Y="223" h="71" n="magic_ck_002382.bmp" pX="0.5" pY="0.5" w="125" x="749" y="223"/>
+    <sprite Height="86" Name="23" OX="-4" OY="-57" Width="100" X="874" Y="223" h="86" n="magic_ck_002383.bmp" pX="0.5" pY="0.5" w="100" x="874" y="223"/>
+    <sprite Height="60" Name="24" OX="-1" OY="-54" Width="90" X="0" Y="330" h="60" n="magic_ck_002384.bmp" pX="0.5" pY="0.5" w="90" x="0" y="330"/>
+    <sprite Height="95" Name="25" OX="-48" OY="-66" Width="145" X="90" Y="330" h="95" n="magic_ck_002386.bmp" pX="0.5" pY="0.5" w="145" x="90" y="330"/>
+    <sprite Height="105" Name="26" OX="-40" OY="-61" Width="138" X="235" Y="330" h="105" n="magic_ck_002387.bmp" pX="0.5" pY="0.5" w="138" x="235" y="330"/>
+    <sprite Height="88" Name="27" OX="-36" OY="-53" Width="135" X="373" Y="330" h="88" n="magic_ck_002388.bmp" pX="0.5" pY="0.5" w="135" x="373" y="330"/>
+    <sprite Height="84" Name="28" OX="-27" OY="-50" Width="104" X="508" Y="330" h="84" n="magic_ck_002391.bmp" pX="0.5" pY="0.5" w="104" x="508" y="330"/>
+    <sprite Height="79" Name="29" OX="-26" OY="-43" Width="108" X="612" Y="330" h="79" n="magic_ck_002392.bmp" pX="0.5" pY="0.5" w="108" x="612" y="330"/>
+    <sprite Height="79" Name="30" OX="-19" OY="-48" Width="117" X="720" Y="330" h="79" n="magic_ck_002393.bmp" pX="0.5" pY="0.5" w="117" x="720" y="330"/>
+    <sprite Height="80" Name="31" OX="22" OY="-54" Width="69" X="837" Y="330" h="80" n="magic_ck_002394.bmp" pX="0.5" pY="0.5" w="69" x="837" y="330"/>
+    <sprite Height="106" Name="32" OX="-40" OY="-73" Width="138" X="0" Y="435" h="106" n="magic_ck_002396.bmp" pX="0.5" pY="0.5" w="138" x="0" y="435"/>
+    <sprite Height="103" Name="33" OX="-45" OY="-65" Width="143" X="138" Y="435" h="103" n="magic_ck_002397.bmp" pX="0.5" pY="0.5" w="143" x="138" y="435"/>
+    <sprite Height="87" Name="34" OX="-42" OY="-56" Width="141" X="281" Y="435" h="87" n="magic_ck_002398.bmp" pX="0.5" pY="0.5" w="141" x="281" y="435"/>
+    <sprite Height="86" Name="35" OX="-28" OY="-53" Width="91" X="422" Y="435" h="86" n="magic_ck_002401.bmp" pX="0.5" pY="0.5" w="91" x="422" y="435"/>
+    <sprite Height="87" Name="36" OX="-33" OY="-52" Width="96" X="513" Y="435" h="87" n="magic_ck_002402.bmp" pX="0.5" pY="0.5" w="96" x="513" y="435"/>
+    <sprite Height="74" Name="37" OX="-24" OY="-36" Width="120" X="609" Y="435" h="74" n="magic_ck_002403.bmp" pX="0.5" pY="0.5" w="120" x="609" y="435"/>
+    <sprite Height="73" Name="38" OX="-5" OY="-45" Width="97" X="729" Y="435" h="73" n="magic_ck_002404.bmp" pX="0.5" pY="0.5" w="97" x="729" y="435"/>
+    <sprite Height="100" Name="39" OX="-32" OY="-72" Width="132" X="826" Y="435" h="100" n="magic_ck_002406.bmp" pX="0.5" pY="0.5" w="132" x="826" y="435"/>
+    <sprite Height="99" Name="40" OX="-44" OY="-71" Width="137" X="0" Y="541" h="99" n="magic_ck_002407.bmp" pX="0.5" pY="0.5" w="137" x="0" y="541"/>
+    <sprite Height="91" Name="41" OX="-39" OY="-63" Width="123" X="137" Y="541" h="91" n="magic_ck_002408.bmp" pX="0.5" pY="0.5" w="123" x="137" y="541"/>
+    <sprite Height="74" Name="42" OX="-27" OY="-54" Width="113" X="260" Y="541" h="74" n="magic_ck_002411.bmp" pX="0.5" pY="0.5" w="113" x="260" y="541"/>
+    <sprite Height="77" Name="43" OX="-33" OY="-54" Width="109" X="373" Y="541" h="77" n="magic_ck_002412.bmp" pX="0.5" pY="0.5" w="109" x="373" y="541"/>
+    <sprite Height="84" Name="44" OX="-25" OY="-47" Width="109" X="482" Y="541" h="84" n="magic_ck_002413.bmp" pX="0.5" pY="0.5" w="109" x="482" y="541"/>
+    <sprite Height="61" Name="45" OX="-20" OY="-31" Width="110" X="591" Y="541" h="61" n="magic_ck_002414.bmp" pX="0.5" pY="0.5" w="110" x="591" y="541"/>
+    <sprite Height="93" Name="46" OX="-35" OY="-68" Width="152" X="701" Y="541" h="93" n="magic_ck_002416.bmp" pX="0.5" pY="0.5" w="152" x="701" y="541"/>
+    <sprite Height="102" Name="47" OX="-40" OY="-75" Width="139" X="853" Y="541" h="102" n="magic_ck_002417.bmp" pX="0.5" pY="0.5" w="139" x="853" y="541"/>
+    <sprite Height="98" Name="48" OX="-35" OY="-69" Width="117" X="0" Y="643" h="98" n="magic_ck_002418.bmp" pX="0.5" pY="0.5" w="117" x="0" y="643"/>
+    <sprite Height="60" Name="49" OX="-22" OY="-56" Width="111" X="117" Y="643" h="60" n="magic_ck_002421.bmp" pX="0.5" pY="0.5" w="111" x="117" y="643"/>
+    <sprite Height="68" Name="50" OX="-27" OY="-62" Width="118" X="228" Y="643" h="68" n="magic_ck_002422.bmp" pX="0.5" pY="0.5" w="118" x="228" y="643"/>
+    <sprite Height="88" Name="51" OX="-32" OY="-53" Width="102" X="346" Y="643" h="88" n="magic_ck_002423.bmp" pX="0.5" pY="0.5" w="102" x="346" y="643"/>
+    <sprite Height="66" Name="52" OX="-22" OY="-35" Width="96" X="448" Y="643" h="66" n="magic_ck_002424.bmp" pX="0.5" pY="0.5" w="96" x="448" y="643"/>
+    <sprite Height="96" Name="53" OX="-35" OY="-63" Width="154" X="544" Y="643" h="96" n="magic_ck_002426.bmp" pX="0.5" pY="0.5" w="154" x="544" y="643"/>
+    <sprite Height="99" Name="54" OX="-32" OY="-76" Width="138" X="698" Y="643" h="99" n="magic_ck_002427.bmp" pX="0.5" pY="0.5" w="138" x="698" y="643"/>
+    <sprite Height="79" Name="55" OX="-33" OY="-67" Width="127" X="836" Y="643" h="79" n="magic_ck_002428.bmp" pX="0.5" pY="0.5" w="127" x="836" y="643"/>
+</TextureAtlas>

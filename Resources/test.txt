@@ -1,0 +1,7 @@
+﻿//	
+//	
+//	
+"key	value"	ZZZ
+"ip	192.168.38.156"	ZZZ
+"port	8000"	ZZZ
+"lg_tips1	账号或密码错误"	ZZZ
