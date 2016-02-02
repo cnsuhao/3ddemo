@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="21" height="21" tilewidth="48" tileheight="48">
+ <tileset firstgid="1" name="alpha" tilewidth="48" tileheight="48">
+  <image source="alpha.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="2" name="block" tilewidth="48" tileheight="48">
+  <image source="block.png" width="48" height="48"/>
+ </tileset>
+ <tileset firstgid="3" name="d140" tilewidth="48" tileheight="48">
+  <image source="d140.jpg" width="1008" height="1008"/>
+ </tileset>
+ <layer name="map" width="21" height="21">
+  <data encoding="base64" compression="zlib">
+   eJwNwwVQEAYAAEBssUXsDlDs7m4FUTCwu7u7uztQEJNQVMCOqZux6bq7Q9fT9XTT/d1/loCAgKxmM7s5zGmgucxtHvOaz/wWsKBBFjLYwhaxqMUsbglLWsrSlrGs5SxvBStayRBDrWwVw6xqNatbw5rWsrZ1rGs969vAhjaysU1sajOb28KWtrK1bWxrO9vbwY52srNd7Gq4EXYz0u72MMpoe9rL3vYxxr72s78DHOggBzvEoQ5zuCMc6ShHO8axjnO8E5zoJCc7xalOc7oznOksZzvHuc5zvgtc6CIXu8SlLnO5K1zpKle7xrWuc70b3OgmN7vFrW5zuzvc6S53u8dY97rPOOPdb4IHPOghD3vEoyaaZLIpHvO4qZ7wpKdMM90MT3vGs57zvBe86CUve8VnvOo1r/usz3nDm97yts/7gne864u+5Mu+4qu+5uu+4Zu+5du+47u+5/t+4Id+5Md+4qd+5ud+4Zd+5dd+4z3v+63f+b0/+KM/+bO/+MCH/upv/u4f/ulf/u0/PvKx//qfT3xqQCbMbBazms3s5jCngeYyt3nMaz7zW8CCBlnIYAtbxKIWs7glLGkpS1vGspazvBWsaCVDDLWyVQyzqtWsbg1rWsva1rGu9axvAxvayMY2sanNbG4LW9rK1raxre1sbwc72snOdrGr4UbYzUi728Moo+1pL3vbxxj72s/+DnCggxzsEIc6zOGOcKSjHO0YxzrO8U5wopOc7BSnOs3pznCms5ztHOc6z/kucKGLXOwSl7rM5a5wpatc7RrXus71bnCjm9zsFre6ze3ucKe73O0eY93rPuOMd78JHvCghzzsEY+aaJLJpnjM46Z6wpOeMs10MzztGc96zvNe8KKXvOwV/wf0R8Tk
+  </data>
+ </layer>
+ <layer name="block" width="21" height="21">
+  <data encoding="base64" compression="zlib">
+   eJxjYmBgYBrimBRAiV5izaUmGKlmUjs8SYl3WqTDwWQmPnNpnQ9pnb9JsZcWZlJqLi3CgxZhTkk6oTcGAG8HAbE=
+  </data>
+ </layer>
+ <layer name="alpha" width="21" height="21">
+  <data encoding="base64" compression="zlib">
+   eJy108EKACAIA1D9/5/uKqLM3Bx4qh5iZcbFQ6lSmZ7WWDuailzM4cJ105nZQma3f1IKM59B5sSfmiiM2c2p6nVj/sxfkc07YExF3yof3eH2fzC9K2Z2YU7zAM/rAJc=
+  </data>
+ </layer>
+ <objectgroup name="unit" width="21" height="21">
+  <object name="2510028" x="522" y="756" width="26" height="23"/>
+  <object name="2510028" x="439" y="740" width="26" height="23"/>
+  <object name="2510028" x="275" y="723" width="26" height="23"/>
+  <object name="2510028" x="406" y="680" width="26" height="23"/>
+  <object name="2510028" x="601" y="749" width="26" height="23"/>
+  <object name="2510028" x="472" y="659" width="26" height="23"/>
+  <object name="2510028" x="543" y="825" width="26" height="23"/>
+  <object name="2510028" x="749" y="687" width="26" height="23"/>
+  <object name="2510028" x="883" y="703" width="26" height="23"/>
+  <object name="2510028" x="634" y="684" width="26" height="23"/>
+  <object name="2510028" x="664" y="809" width="26" height="23"/>
+  <object name="2510029" x="107" y="523" width="26" height="23"/>
+  <object name="2510029" x="287" y="532" width="26" height="23"/>
+  <object name="2510029" x="82" y="445" width="26" height="23"/>
+  <object name="2510029" x="82" y="304" width="26" height="23"/>
+  <object name="2510029" x="75" y="153" width="26" height="23"/>
+  <object name="2510029" x="155" y="257" width="26" height="23"/>
+  <object name="2510029" x="158" y="161" width="26" height="23"/>
+  <object name="2510029" x="248" y="378" width="26" height="23"/>
+  <object name="2510029" x="150" y="367" width="26" height="23"/>
+  <object name="2510029" x="258" y="158" width="26" height="23"/>
+  <object name="2510029" x="212" y="290" width="26" height="23"/>
+  <object name="2510029" x="216" y="439" width="26" height="23"/>
+  <object name="2510029" x="319" y="454" width="26" height="23"/>
+  <object name="2510029" x="177" y="554" width="26" height="23"/>
+  <object name="2510030" x="662" y="216" width="26" height="23"/>
+  <object name="2510030" x="742" y="247" width="26" height="23"/>
+  <object name="2510030" x="815" y="248" width="26" height="23"/>
+  <object name="2510030" x="787" y="142" width="26" height="23"/>
+  <object name="2510030" x="553" y="193" width="26" height="23"/>
+  <object name="2510030" x="621" y="148" width="26" height="23"/>
+  <object name="2510030" x="450" y="143" width="26" height="23"/>
+  <object name="2510030" x="523" y="263" width="26" height="23"/>
+  <object name="2510030" x="683" y="347" width="26" height="23"/>
+  <object name="2510030" x="580" y="341" width="26" height="23"/>
+  <object name="2510030" x="779" y="345" width="26" height="23"/>
+  <object name="2510030" x="603" y="274" width="26" height="23"/>
+  <object name="2510030" x="355" y="190" width="26" height="23"/>
+  <object name="2510030" x="412" y="286" width="26" height="23"/>
+  <object name="2510030" x="455" y="347" width="26" height="23"/>
+ </objectgroup>
+ <objectgroup name="waypoint" width="21" height="21">
+  <object name="p140-1" x="782" y="774" width="45" height="33"/>
+ </objectgroup>
+</map>
